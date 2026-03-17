@@ -82,13 +82,7 @@ A deep learning–powered system for tracking players, identifying teams, and an
 
 # Real-Time Football Player & Team Tracking
 
-![Football Tracking](assets/(image-1.png))  <!-- Optional: add a screenshot -->
-
-![alt text](image-2.png)
-
 This project demonstrates **real-time football player detection, team classification, and event annotation** using **YOLO, Sports library, and Supervision**.
-
----
 
 ## Features
 
@@ -116,21 +110,7 @@ This project demonstrates **real-time football player detection, team classifica
 - **Tracking:** ByteTrack  
 - **Team Classification:** Roboflow Sports Library  
 - **Deep Learning Framework:** PyTorch  
-- **Environment:** Python 3.10, Conda  
-
----
-
-## Model
-
-    https://drive.google.com/file/d/1gIQuv32iJtyvfoxLBkG6T2Fklq2P2TBz/view?usp=sharing
-
-## video_dowload
-
-    !gdown -O "0bfacc_0.mp4" "https://drive.google.com/uc?id=12TqauVZ9tLAv8kWxTTBFWtgt2hNQ4_ZF"
-    !gdown -O "2e57b9_0.mp4" "https://drive.google.com/uc?id=19PGw55V8aA6GZu5-Aac5_9mCy3fNxmEf"
-    !gdown -O "08fd33_0.mp4" "https://drive.google.com/uc?id=1OG8K6wqUw9t7lp9ms1M48DxRhwTYciK-"
-    !gdown -O "573e61_0.mp4" "https://drive.google.com/uc?id=1yYPKuXbHsCxqjA9G-S6aeR2Kcnos8RPU"
-    !gdown -O "121364_0.mp4" "https://drive.google.com/uc?id=1vVwjW1dE1drIdd4ZSILfbCGPD4weoNiu"
+- **Environment:** Python 3.10, Conda 
 
 ## Installation
 
@@ -139,9 +119,7 @@ This project demonstrates **real-time football player detection, team classifica
     conda activate football
     pip install -r requirements.txt
 
-## Final notebook here
-
-    https://drive.google.com/file/d/1d33mYdw9VX7agOOGx_PgHp6ZVZykhzdv/view?usp=sharing
 
 
+[MIT License](LICENSE)
 
