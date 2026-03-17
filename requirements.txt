@@ -1,0 +1,41 @@
+ 
+# Football CV Project Requirements
+# Python 3.10 recommended
+
+torch==2.9.1 
+torchaudio==2.9.1 
+torchvision==0.24.1
+ultralytics==8.3.227
+packaging==23.2
+transformers==4.41.2
+supervision==0.27.0
+ipython==9.8.0
+easyocr==1.7.2
+opencv-python-headless==4.10.0.84
+opencv-python==4.12.0.88
+git+https://github.com/roboflow/sports.git
+tqdm
+numpy==2.2.6
+Pillow
+
+
+
+# conda remove -n cv --all -y
+# conda create -n cv python=3.12 -y
+# conda activate cv
+
+
+
+# ultralytics==8.3.227
+# opencv-python==4.12.0.88
+# opencv-python-headless==4.10.0.84
+# easyocr==1.7.2
+# supervision==0.27.0
+# ipython==9.8.0
+# numpy==2.2.6
+# segment-anything
+# inference==0.62.5
+# transformers==4.41.2
+# packaging==23.2
+
+# pip install git+https://github.com/roboflow/sports.git
